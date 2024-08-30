@@ -1,9 +1,9 @@
 # I'm Pluto, and I like fish
 ![download (4)](https://github.com/user-attachments/assets/834272e3-d130-44a2-bd53-4e3f6327760f)
 ---
-I'm Pluto, also known as Miyamii and/or Tomoko online
+I'm Pluto, also known as Miyamii and/or Tomoko online. I work with both computer hardware and software!
 
-Aside from being a professional procrastinator, I'm also the creator of these cool little things!
+Aside from being a professional procrastinator, I'm also the creator of these cool little things:
 
 - Zora
 - Stolaris
@@ -24,6 +24,6 @@ If you're interested, you can also commission (essentially hire me) for your pro
 
 ---------------------------------------------------------------
 
-To get in contact with me, I recommend using __Discord__, which is provided in my carrd-
+To get in contact with me, I recommend using **Discord**, which is provided in my carrd-
 
 [^1]: Updates are sparce, be aware of that.
