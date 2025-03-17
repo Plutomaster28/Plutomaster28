@@ -1,4 +1,4 @@
-## Hello, I'm Tomoko (I pray I don't have to use my real name again:pray:)
+## Hello, I'm Tomoko
 I'm Tomoko, also known as Miyamii and/or Pluto online. I work with both computer hardware and software!
 
 Aside from being a professional procrastinator, I'm also the creator of these cool little things:
