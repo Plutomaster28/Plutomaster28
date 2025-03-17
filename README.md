@@ -22,4 +22,4 @@ If you're interested, you can also commission (essentially hire me) for your pro
 
 To get in contact with me, I recommend using **Discord**, which is provided in my carrd-
 
-[^1]: I've moved to using Github as myt main way of distribution.
+[^1]: I've moved to using Github as my main way of distribution.
