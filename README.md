@@ -7,6 +7,9 @@ If you're interested, here's a short list of things that I made that I'm pretty 
 - Zora Series
 - MCU-32X
 - CIX-32
+- Vixen Dio Pro
+
+<sub>Just assume I'm proud of all the hardware I make<sub/>
 
 I'm also the founder of Meisei, a company whose entire purpose is to push limits and set new standards
 ### 💫With style🌟
