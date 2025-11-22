@@ -67,14 +67,15 @@ jobs:
               plugin_people_limit: 24
               plugin_people_size: 28
               plugin_people_types: followers, following
-          - name: steam
-            if: ${{ success() || failure() }}
-            uses: lowlighter/metrics@latest
-            with:
-              filename: github-steam.svg
-              token: ${{ secrets.METRICS_TOKEN }}
-              config_timezone: America/Los_Angeles
-              base: ""
-              plugin_steam_token: ${{ secrets.STEAM_TOKEN }}
-              plugin_steam: yes
-              plugin_steam_user: "76561199021511094"
+          # Steam stats - commented out for now
+          # - name: steam
+          #   if: ${{ success() || failure() }}
+          #   uses: lowlighter/metrics@latest
+          #   with:
+          #     filename: github-steam.svg
+          #     token: ${{ secrets.METRICS_TOKEN }}
+          #     config_timezone: America/Los_Angeles
+          #     base: ""
+          #     plugin_steam_token: ${{ secrets.STEAM_TOKEN }}
+          #     plugin_steam: yes
+          #     plugin_steam_user: "76561199021511094"
