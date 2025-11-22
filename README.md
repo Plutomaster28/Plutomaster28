@@ -34,9 +34,9 @@
 # Statistics
 
 [<img align="left" width="390" alt="GitHub basic" src="https://raw.githubusercontent.com/Plutomaster28/Plutomaster28/main/github-basic.svg" />](#)
-[<img align="left" width="390" alt="GitHub steam" src="https://raw.githubusercontent.com/Plutomaster28/Plutomaster28/main/github-steam.svg" />](#)
+<!-- [<img align="left" width="390" alt="GitHub steam" src="https://raw.githubusercontent.com/Plutomaster28/Plutomaster28/main/github-steam.svg" />](#) -->
 [<img align="right" width="390" alt="GitHub language" src="https://raw.githubusercontent.com/Plutomaster28/Plutomaster28/main/github-languages.svg" />](#)
-[<img align="right" width="390" alt="GitHub followers" src="https://raw.githubusercontent.com/Plutomaster28/Plutomaster28/main/github-ysdag.svg" />](#)
+<!-- [<img align="right" width="390" alt="GitHub followers" src="https://raw.githubusercontent.com/Plutomaster28/Plutomaster28/main/github-ysdag.svg" />](#) -->
 
 
 <br clear="both"/>
