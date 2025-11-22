@@ -3,7 +3,7 @@
 </p>
 <p align="center">
 
-### Founding Engineer @ Meisei | Silicon Design | Open-Source Hardware Wizard
+### Founding Engineer @ Meisei | Silicon Design | Open-Source Hardware person
 ### aka Miyamii | Pluto | Tomoko | Nakamura | Saito
 
 <div align="center">
