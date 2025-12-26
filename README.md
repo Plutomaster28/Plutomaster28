@@ -13,21 +13,19 @@
 
 - I'm currently working on **scaling from 130nm to 45nm node** at **Meisei**.
 
-- I'm currently learning **advancing open-source silicon methodologies**
-
 - I'm highly interested in **processor design, my series of programs, and fish** 🐟
 
 - All of my projects are available at [https://github.com/Plutomaster28](https://github.com/Plutomaster28)
 
 - Fun fact: **I can devour an entire burrito in 2 minutes**
 
-**Proud hardware projects:**
+**Projects:**
 - Zora Series
 - MCU-32X
 - CIX-32
 - Vixen Dio Pro
 
-<sub>*Basically proud of all the hardware I make tbh*</sub>
+<sub>*Basically proud of all the stuff I make tbh*</sub>
 
 ---
 
