@@ -39,7 +39,7 @@
 + Vim exit attempts: Still trying
 ```
 
-## 🚨 WARNING LABELS
+##  WARNING LABELS
 
 ```
   CAUTION: May contain traces of working code
