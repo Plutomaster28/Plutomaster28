@@ -20,10 +20,7 @@
 - Fun fact: **I can devour an entire burrito in 2 minutes**
 
 **Projects:**
-- Zora Series
-- MCU-32X
-- CIX-32
-- Vixen Dio Pro
+- I'll populate this list once I make a formal list of all the shit I'm juggling
 
 <sub>*Basically proud of all the stuff I make tbh*</sub>
 
@@ -140,14 +137,14 @@
 ##  Vibe Check
 
 ```
-Energy Level:    [████████░░] 80% (Fueled by Monster)
-Motivation:      [██████████] 100% (Projects are sick)
-Sanity:          [███░░░░░░░] 30% (Acceptable for engineering)
-Code Quality:    [████████░░] 85% (Gets the job done)
-Meme Knowledge:  [██████████] ∞% (Chronically Online)
+Energy Level:      [████████░░] 80% (Fueled by Monster)
+Motivation:        [██████████] 100% (Projects are sick)
+Sanity:            [███░░░░░░░] 30% (Acceptable for engineering)
+Code Quality:      [████████░░] 85% (Gets the job done)
+Meme Knowledge:    [██████████] ∞% (Chronically Online)
 Imposter Syndrome: [██████████] 100% (Despite making sick projects)
-Tab Hoarding:    [████████░░] 83 Chrome tabs (Under control)
-Procrastination: [████████░░] 80% ("I work better under pressure")
+Tab Hoarding:      [████████░░] 83 Chrome tabs (Under control)
+Procrastination:   [████████░░] 80% ("I work better under pressure")
 ```
 
 ---
