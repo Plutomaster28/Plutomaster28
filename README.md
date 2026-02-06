@@ -5,6 +5,7 @@
 
 ### Founding Engineer @ Meisei | Silicon Design | Open-Source Hardware person
 ### aka Miyamii | Pluto | Tomoko | Nakamura | Saito
+(Use dark mode to see the game)
 
 <div align="center">
   <img src="https://github.com/Plutomaster28/Plutomaster28/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" title="Eating commits like burritos" />
