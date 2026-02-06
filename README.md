@@ -63,21 +63,6 @@
 
 ---
 
-# Languages and Tools:
-<div align="center">
-
-### Languages
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="60" height="60"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cpp" width="60" height="60"/> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f2/Verilog_logo.svg" alt="verilog" width="60" height="60"/>
-  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="60" height="60"/>
-</p>
-
-</div>
-
----
-
 #  Achievement Unlocked
 
 <div align="center">
