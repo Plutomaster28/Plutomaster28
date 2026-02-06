@@ -74,20 +74,6 @@
   <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="60" height="60"/>
 </p>
 
-### Tools & Workflow
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="50" height="50"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/>
-  <img src="https://avatars.githubusercontent.com/u/44743457?s=200&v=4" alt="openlane" width="50" height="50"/>
-  <img src="https://github.com/The-OpenROAD-Project/OpenROAD/blob/master/docs/user/logos/openroad_logo.png?raw=true" alt="openroad" width="50" height="50"/>
-</p>
-
-### Essential Development Stack
-<p align="center">
-  <img src="https://www.msys2.org/logo.svg" alt="msys2" width="50" height="50"/>
-  <img src="https://i.imgur.com/cJjcJGP.png" alt="white monster" width="50" height="50" title="White Monster Energy - Critical Development Tool"/>
-</p>
-
 </div>
 
 ---
