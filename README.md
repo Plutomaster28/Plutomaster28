@@ -3,7 +3,6 @@
 </p>
 <p align="center">
 
-### Founding Engineer @ Meisei | Silicon Design | Open-Source Hardware person
 ### aka Miyamii | Pluto | Tomoko | Nakamura | Saito
 (Use dark mode to see the game)
 
