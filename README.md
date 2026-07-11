@@ -1,28 +1,16 @@
 <!-- PLUTO/28 // PERSONAL SILICON TERMINAL -->
 
 ```text
-                         .-~~~~~~~~~~~~-.
-                     .-~                  ~-.
-                   .'     ┌──┬──┬──┬──┐     '.
-                  /       ├──┼──┼──┼──┤       \
-                 ;        ├──┼──┼──┼──┤        ;
-                 |        ├──┼──┼──┼──┤        |
-                 ;        └──┴──┴──┴──┘        ;
-                  \                              /
-                   '.      PLUTO / 28          .'
-                     '-.                  .-'
-                        '~~~~~~~~~~~~~~~~'
-
     PERSONAL SILICON TERMINAL                         REV. 2026
     ───────────────────────────────────────────────────────────
     power          [████████████████████] nominal
     identity       Naoki / Miyamii / Pluto
-    discipline     processor architecture + silicon design
+    discipline     processor architecture + silicon design + general computer programming/engineering
     process        130 nm ─────────────────────────────► 45 nm
     laboratory     Meisei
-    current job    <describe the thing on your bench right now>
+    current job    Designing integrated circuits and programs
     ───────────────────────────────────────────────────────────
-    SYSTEM READY. MAKE SOMETHING SMALLER, FASTER, OR STRANGER.
+    SYSTEM READY. MAKE SOMETHING SMALLER, BETTER, STRONGER, AND FASTER.
 ```
 
 I build computers from the transistor up.
@@ -34,35 +22,29 @@ the long trip from an idea to silicon. Currently, I am scaling a design from
 <br>
 
 ```text
-┌─ TAPES IN THE LAB ───────────────────────────────────────────┐
+┌─ TAPES IN THE LAB ──────────────────────────────────────────┐
 │                                                             │
-│  01  PROJECT NAME                                            │
-│      What it does, why it matters, and your part in it.      │
-│      github.com/Plutomaster28/repository                     │
+│  01  Clownfish | The Pinnacle of Meisei Engineering         │
+│      32 Pipelines, 3.5Ghz, Multithreading, Superscalar      |
+|       Processing, all RISC-V.                               │
+│    github.com/Plutomaster28/clownfish-microarchitecture.git │
 │                                                             │
-│  02  PROJECT NAME                                            │
-│      One sharp sentence. Numbers beat adjectives.           │
-│      github.com/Plutomaster28/repository                     │
+│  02  Clione | Meisei Compute Series first generation.       │
+│      4-way SMT, 8-way Superscalar processing. This is       |
+|      the pinnacle of 130nm power processing.                │
+│      github.com/Plutomaster28/clione-architecture.git       |
 │                                                             │
-│  03  PROJECT NAME                                            │
-│      The weird one you cannot stop thinking about.          │
-│      github.com/Plutomaster28/repository                     │
+│  03  M4000 | What made everything else possible.            │
+│      The first. 4-bit processing that opened a world of     |
+|      what was possible.                                     │
+│      github.com/Plutomaster28/Miyamii-4000.git              │
 │                                                             │
 └─────────────────────────────────────────────────────────────┘
 ```
 
 ```text
-INSTRUMENTS  Verilog · <EDA TOOLS> · <LANGUAGES>
-RESEARCH     <WHAT YOU ARE LEARNING OR EXPLORING>
-TRANSMIT     <EMAIL> · <WEBSITE> · <SOCIAL>
+INSTRUMENTS  Verilog & SystemVerilog · LibreLane · C · C++ · PERL · Git
+RESEARCH     Custom ISAs and Compilers for my architectures
 ```
 
 <sub>checksum: processors / programs / fish / one burrito in 120 seconds</sub>
-
-<!--
-  MAINTENANCE NOTES
-  1. Replace bracketed text.
-  2. Turn the plain repository addresses into Markdown links if desired.
-  3. Keep exactly three projects. Rotate them as your work changes.
-  4. Resist adding badges. The restraint is part of the design.
--->
